@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2024-06-27T23:16:09.0401315Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-06-27T23:16:09.0200734Z"
+    }
+  },
+  "parameters": {}
+}
